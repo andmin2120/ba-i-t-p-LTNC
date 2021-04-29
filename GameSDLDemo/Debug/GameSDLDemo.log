@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GameSDLDemo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(107,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(162,37): warning C4018: '<': signed/unsigned mismatch
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(181,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(182,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(224,37): warning C4018: '<': signed/unsigned mismatch
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(234,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+E:\Dragonwar\Dragonwar\GameSDLDemo\main.cpp(235,43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  GameSDLDemo.vcxproj -> E:\Dragonwar\Dragonwar\Debug\GameSDLRong.exe
